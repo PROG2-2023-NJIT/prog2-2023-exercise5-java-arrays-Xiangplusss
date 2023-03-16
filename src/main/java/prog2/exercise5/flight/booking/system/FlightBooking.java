@@ -22,7 +22,7 @@ public class FlightBooking {
     String bookingClass;
     String tripType;
     int size;
-    String[] passengerFullName ;
+    String[] passengerFullName;
     String[] passengerGender;
     int[] passengerAge;
     String[] ticketNumber;
